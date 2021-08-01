@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-colors-project/static/css/main.c8e4bf60.chunk.css",
+    "main.js": "/react-colors-project/static/js/main.bda8b754.chunk.js",
+    "main.js.map": "/react-colors-project/static/js/main.bda8b754.chunk.js.map",
+    "runtime-main.js": "/react-colors-project/static/js/runtime-main.1837fa45.js",
+    "runtime-main.js.map": "/react-colors-project/static/js/runtime-main.1837fa45.js.map",
+    "static/css/2.43d80e6b.chunk.css": "/react-colors-project/static/css/2.43d80e6b.chunk.css",
+    "static/js/2.c40f1ff3.chunk.js": "/react-colors-project/static/js/2.c40f1ff3.chunk.js",
+    "static/js/2.c40f1ff3.chunk.js.map": "/react-colors-project/static/js/2.c40f1ff3.chunk.js.map",
+    "static/js/3.6f1ee2d7.chunk.js": "/react-colors-project/static/js/3.6f1ee2d7.chunk.js",
+    "static/js/3.6f1ee2d7.chunk.js.map": "/react-colors-project/static/js/3.6f1ee2d7.chunk.js.map",
+    "index.html": "/react-colors-project/index.html",
+    "static/css/2.43d80e6b.chunk.css.map": "/react-colors-project/static/css/2.43d80e6b.chunk.css.map",
+    "static/css/main.c8e4bf60.chunk.css.map": "/react-colors-project/static/css/main.c8e4bf60.chunk.css.map",
+    "static/js/2.c40f1ff3.chunk.js.LICENSE.txt": "/react-colors-project/static/js/2.c40f1ff3.chunk.js.LICENSE.txt",
+    "static/media/bg.692fec17.svg": "/react-colors-project/static/media/bg.692fec17.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1837fa45.js",
+    "static/css/2.43d80e6b.chunk.css",
+    "static/js/2.c40f1ff3.chunk.js",
+    "static/css/main.c8e4bf60.chunk.css",
+    "static/js/main.bda8b754.chunk.js"
+  ]
+}
